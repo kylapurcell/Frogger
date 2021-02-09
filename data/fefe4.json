@@ -1,0 +1,125 @@
+{
+  "sprites": [
+    {
+      "name": "Fly",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 450,
+      "ycoord": 350,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 789,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 531,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 531,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 531,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 414,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 414,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 414,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 211,
+      "ycoord": 228,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 775,
+      "ycoord": 474,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 64,
+      "ycoord": 136,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 34,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 34,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 34,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    }
+  ],
+  "player": {
+    "score": 0,
+    "items": {
+      "list": []
+    },
+    "type": "Frog",
+    "xcoord": 400,
+    "ycoord": 465,
+    "width": 40,
+    "height": 40
+  },
+  "gameOver": false,
+  "highScore": 0,
+  "changed": false,
+  "obs": []
+}

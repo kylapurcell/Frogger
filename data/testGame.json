@@ -1,0 +1,35 @@
+{
+  "sprites": [
+    {
+      "name": "Fly",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 450,
+      "ycoord": 350,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 0,
+      "ycoord": 330,
+      "width": 55,
+      "height": 45
+    }
+  ],
+  "player": {
+    "score": 0,
+    "items": {
+      "list": []
+    },
+    "type": "Frog",
+    "xcoord": 400,
+    "ycoord": 560,
+    "width": 40,
+    "height": 40
+  },
+  "gameOver": false,
+  "highScore": 5,
+  "changed": false,
+  "obs": []
+}

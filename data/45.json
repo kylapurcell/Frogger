@@ -1,0 +1,200 @@
+{
+  "sprites": [
+    {
+      "type": "Car",
+      "xcoord": 1140,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1064,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1064,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1064,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1004,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1004,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1004,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 401,
+      "ycoord": 231,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 719,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 719,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 719,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 370,
+      "ycoord": 331,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 474,
+      "ycoord": 269,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 495,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 495,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 495,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 311,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 311,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 311,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 192,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 192,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 192,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 102,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 102,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 102,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    }
+  ],
+  "player": {
+    "score": 2,
+    "items": {
+      "list": []
+    },
+    "type": "Frog",
+    "xcoord": 465,
+    "ycoord": 160,
+    "width": 40,
+    "height": 40
+  },
+  "gameOver": false,
+  "highScore": 0,
+  "changed": false,
+  "obs": []
+}

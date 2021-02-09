@@ -1,0 +1,35 @@
+{
+  "enemy": {
+    "xcoord": 6,
+    "ycoord": 3
+  },
+  "player": {
+    "score": 0,
+    "xcoord": 3,
+    "ycoord": 5,
+    "items": {
+      "list": [
+        {
+          "name": "Fly",
+          "points": 2,
+          "xcoord": 4,
+          "ycoord": 6
+        },
+        {
+          "name": "Fly",
+          "points": 2,
+          "xcoord": 4,
+          "ycoord": 6
+        }
+      ]
+    }
+  },
+  "bonus": {
+    "name": "Fly",
+    "points": 2,
+    "xcoord": 4,
+    "ycoord": 6
+  },
+  "gameOver": false,
+  "highScore": 0
+}

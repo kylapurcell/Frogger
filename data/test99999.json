@@ -1,0 +1,255 @@
+{
+  "sprites": [
+    {
+      "name": "Fly",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 450,
+      "ycoord": 350,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 3783,
+      "ycoord": 330,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 730,
+      "ycoord": 498,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 481,
+      "ycoord": 41,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 157,
+      "ycoord": 470,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 135,
+      "ycoord": 561,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1497,
+      "ycoord": 470,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Car",
+      "xcoord": 1497,
+      "ycoord": 400,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Truck",
+      "xcoord": -1695,
+      "ycoord": 320,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": false,
+      "type": "Alligator",
+      "xcoord": 1497,
+      "ycoord": 100,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": false,
+      "type": "Alligator",
+      "xcoord": 1497,
+      "ycoord": 200,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 678,
+      "ycoord": 494,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1260,
+      "ycoord": 470,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Car",
+      "xcoord": 1260,
+      "ycoord": 400,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Truck",
+      "xcoord": -1300,
+      "ycoord": 320,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": false,
+      "type": "Alligator",
+      "xcoord": 1260,
+      "ycoord": 100,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": false,
+      "type": "Alligator",
+      "xcoord": 1260,
+      "ycoord": 200,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 244,
+      "ycoord": 450,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 939,
+      "ycoord": 470,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Car",
+      "xcoord": 939,
+      "ycoord": 400,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Truck",
+      "xcoord": -765,
+      "ycoord": 320,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": false,
+      "type": "Alligator",
+      "xcoord": 939,
+      "ycoord": 100,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": false,
+      "type": "Alligator",
+      "xcoord": 939,
+      "ycoord": 200,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 338,
+      "ycoord": 409,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 252,
+      "ycoord": 470,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Car",
+      "xcoord": 252,
+      "ycoord": 400,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Truck",
+      "xcoord": 380,
+      "ycoord": 320,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": true,
+      "type": "Alligator",
+      "xcoord": 252,
+      "ycoord": 100,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": true,
+      "type": "Alligator",
+      "xcoord": 252,
+      "ycoord": 200,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 158,
+      "ycoord": 513,
+      "width": 40,
+      "height": 40
+    }
+  ],
+  "player": {
+    "score": 0,
+    "items": {
+      "list": []
+    },
+    "type": "Frog",
+    "xcoord": 400,
+    "ycoord": 560,
+    "width": 40,
+    "height": 40
+  },
+  "gameOver": false,
+  "highScore": 0,
+  "changed": false,
+  "obs": []
+}

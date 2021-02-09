@@ -1,0 +1,165 @@
+{
+  "sprites": [
+    {
+      "type": "Car",
+      "xcoord": 1287,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 955,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 955,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 955,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 943,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 943,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 943,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 804,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 804,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 804,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 600,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 600,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 600,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 67,
+      "ycoord": 302,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 49,
+      "ycoord": 140,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 529,
+      "ycoord": 538,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 349,
+      "ycoord": 446,
+      "width": 40,
+      "height": 40
+    }
+  ],
+  "player": {
+    "score": 0,
+    "items": {
+      "list": [
+        {
+          "name": "Fly",
+          "points": 2,
+          "type": "Item",
+          "xcoord": 450,
+          "ycoord": 350,
+          "width": 40,
+          "height": 40
+        },
+        {
+          "name": "LilyPad",
+          "points": 2,
+          "type": "Item",
+          "xcoord": 394,
+          "ycoord": 164,
+          "width": 40,
+          "height": 40
+        }
+      ]
+    },
+    "type": "Frog",
+    "xcoord": 395,
+    "ycoord": 145,
+    "width": 40,
+    "height": 40
+  },
+  "gameOver": false,
+  "highScore": 0,
+  "changed": false,
+  "obs": []
+}

@@ -1,0 +1,126 @@
+{
+  "sprites": [
+    {
+      "type": "Car",
+      "xcoord": 399,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 235,
+      "ycoord": 133,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 283,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 283,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 283,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 273,
+      "ycoord": 537,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 163,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 163,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 163,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 114,
+      "ycoord": 300,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 114,
+      "ycoord": 230,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 114,
+      "ycoord": 370,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 602,
+      "ycoord": 57,
+      "width": 40,
+      "height": 40
+    }
+  ],
+  "player": {
+    "score": 0,
+    "items": {
+      "list": [
+        {
+          "name": "Fly",
+          "points": 2,
+          "type": "Item",
+          "xcoord": 450,
+          "ycoord": 350,
+          "width": 40,
+          "height": 40
+        }
+      ]
+    },
+    "type": "Frog",
+    "xcoord": 755,
+    "ycoord": 290,
+    "width": 40,
+    "height": 40
+  },
+  "gameOver": false,
+  "highScore": 0,
+  "changed": false,
+  "obs": []
+}

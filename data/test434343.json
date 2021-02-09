@@ -1,0 +1,136 @@
+{
+  "sprites": [
+    {
+      "name": "Fly",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 450,
+      "ycoord": 350,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 1806,
+      "ycoord": 330,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Car",
+      "xcoord": 1758,
+      "ycoord": 470,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Car",
+      "xcoord": 1758,
+      "ycoord": 400,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Truck",
+      "xcoord": -2130,
+      "ycoord": 320,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": false,
+      "type": "Alligator",
+      "xcoord": 1758,
+      "ycoord": 100,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": false,
+      "type": "Alligator",
+      "xcoord": 1758,
+      "ycoord": 200,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 576,
+      "ycoord": 458,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 488,
+      "ycoord": 180,
+      "width": 40,
+      "height": 40
+    },
+    {
+      "type": "Car",
+      "xcoord": 177,
+      "ycoord": 470,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Car",
+      "xcoord": 177,
+      "ycoord": 400,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "type": "Truck",
+      "xcoord": 505,
+      "ycoord": 320,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": true,
+      "type": "Alligator",
+      "xcoord": 177,
+      "ycoord": 100,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "visible": true,
+      "type": "Alligator",
+      "xcoord": 177,
+      "ycoord": 200,
+      "width": 55,
+      "height": 45
+    },
+    {
+      "name": "LilyPad",
+      "points": 2,
+      "type": "Item",
+      "xcoord": 764,
+      "ycoord": 314,
+      "width": 40,
+      "height": 40
+    }
+  ],
+  "player": {
+    "score": 0,
+    "items": {
+      "list": []
+    },
+    "type": "Frog",
+    "xcoord": 400,
+    "ycoord": 560,
+    "width": 40,
+    "height": 40
+  },
+  "gameOver": false,
+  "highScore": 0,
+  "changed": false,
+  "obs": []
+}
