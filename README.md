@@ -54,29 +54,6 @@ think there will be creative ways to showcase the required features for each pha
 - As a user, I want to be able to load a game file saved with my progress and highest 
 score so I can try to beat it next game or continue where I left off
 
-## Instructions For Grader
- -  You can generate the first required event by moving your player with the arrow keys
- and moving over a green lilypad or fly image. This will add the item to your inventory, you can
- check that it has been added by pressing the inventory menu and viewing how the inventory changes. 
- This event Adds an X to a Y.
- - You can generate the second required event by clicking the inventory menu and hovering over an item name
- and clicking the "Use" option. You will see the score go up and that the item has now been removed from your inventory.
- This event uses an X and removes an X from Y. 
- - You can trigger my audio component by picking up an item. When you move over an item 
- you will hear the GemChest1-1.wav sound as it is added to your inventory.
- - You can save the state of my application by pressing the "Save Your Game" button, use the file chooser window 
- to locate the data folder of this project and write a name of your choosing then press save. 
- Note make sure you are out of reach of cars before saving. 
- - You can reload the state of my application by pressing the "Load a Game" button. 
- Use the file chooser window to locate the data folder of this project, choose the file you just saved and press open.
- Your game will be loaded in the same state you saved it in. 
- You can confirm this by noting your position, inventory, and score have loaded. 
- - Note- Running into cars will get you game over, 
- reaching the end of the map vertically or using an item increases your score. 
- You can exit the game at any time by pressing the "X" key. 
- The json files that are already in the data folder are for testing Persistence and will not load properly, 
- as the game has been updated since their creation, please DO NOT try to load these and load files you have saved instead. 
- 
  ## Phase 4: Task 2
  Type Hierarchy  
  
